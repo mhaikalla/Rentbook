@@ -1,0 +1,42 @@
+C:\Users\M Haikal Anatama\source\repos\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\bin\Debug\Aplikasi SI Perpustakaan (PI).exe.config
+C:\Users\M Haikal Anatama\source\repos\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\bin\Debug\Aplikasi SI Perpustakaan (PI).exe
+C:\Users\M Haikal Anatama\source\repos\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\bin\Debug\Aplikasi SI Perpustakaan (PI).pdb
+C:\Users\M Haikal Anatama\source\repos\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\bin\Debug\Aplikasi SI Perpustakaan (PI).xml
+C:\Users\M Haikal Anatama\source\repos\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi_SI_Perpustakaan__PI_.LoginForm.resources
+C:\Users\M Haikal Anatama\source\repos\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi_SI_Perpustakaan__PI_.MainForm.resources
+C:\Users\M Haikal Anatama\source\repos\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi_SI_Perpustakaan__PI_.Resources.resources
+C:\Users\M Haikal Anatama\source\repos\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi_SI_Perpustakaan__PI_.UC_Anggota.resources
+C:\Users\M Haikal Anatama\source\repos\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi_SI_Perpustakaan__PI_.UC_Buku.resources
+C:\Users\M Haikal Anatama\source\repos\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi_SI_Perpustakaan__PI_.UC_Dashboard.resources
+C:\Users\M Haikal Anatama\source\repos\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi_SI_Perpustakaan__PI_.UC_History.resources
+C:\Users\M Haikal Anatama\source\repos\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi_SI_Perpustakaan__PI_.UC_Peminjaman.resources
+C:\Users\M Haikal Anatama\source\repos\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi_SI_Perpustakaan__PI_.UC_Pengaturan.resources
+C:\Users\M Haikal Anatama\source\repos\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi_SI_Perpustakaan__PI_.UC_Pengembalian.resources
+C:\Users\M Haikal Anatama\source\repos\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi_SI_Perpustakaan__PI_.UC_Petugas.resources
+C:\Users\M Haikal Anatama\source\repos\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi SI Perpustakaan (PI).vbproj.GenerateResource.Cache
+C:\Users\M Haikal Anatama\source\repos\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi SI Perpustakaan (PI).vbproj.CoreCompileInputs.cache
+C:\Users\M Haikal Anatama\source\repos\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi SI Perpustakaan (PI).exe
+C:\Users\M Haikal Anatama\source\repos\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi SI Perpustakaan (PI).xml
+C:\Users\M Haikal Anatama\source\repos\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi SI Perpustakaan (PI).pdb
+C:\Users\M Haikal Anatama\source\repos\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi SI Perpustakaan (PI).vbprojResolveAssemblyReference.cache
+D:\Kuliah TI\Bahasa Program\VB\Backup\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\bin\Debug\Aplikasi SI Perpustakaan (PI).exe.config
+D:\Kuliah TI\Bahasa Program\VB\Backup\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\bin\Debug\Aplikasi SI Perpustakaan (PI).exe
+D:\Kuliah TI\Bahasa Program\VB\Backup\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\bin\Debug\Aplikasi SI Perpustakaan (PI).pdb
+D:\Kuliah TI\Bahasa Program\VB\Backup\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\bin\Debug\Aplikasi SI Perpustakaan (PI).xml
+D:\Kuliah TI\Bahasa Program\VB\Backup\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi_SI_Perpustakaan__PI_.LoginForm.resources
+D:\Kuliah TI\Bahasa Program\VB\Backup\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi_SI_Perpustakaan__PI_.MainForm.resources
+D:\Kuliah TI\Bahasa Program\VB\Backup\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi_SI_Perpustakaan__PI_.Resources.resources
+D:\Kuliah TI\Bahasa Program\VB\Backup\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi_SI_Perpustakaan__PI_.UC_Anggota.resources
+D:\Kuliah TI\Bahasa Program\VB\Backup\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi_SI_Perpustakaan__PI_.UC_Buku.resources
+D:\Kuliah TI\Bahasa Program\VB\Backup\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi_SI_Perpustakaan__PI_.UC_Dashboard.resources
+D:\Kuliah TI\Bahasa Program\VB\Backup\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi_SI_Perpustakaan__PI_.UC_History.resources
+D:\Kuliah TI\Bahasa Program\VB\Backup\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi_SI_Perpustakaan__PI_.UC_Peminjaman.resources
+D:\Kuliah TI\Bahasa Program\VB\Backup\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi_SI_Perpustakaan__PI_.UC_Pengaturan.resources
+D:\Kuliah TI\Bahasa Program\VB\Backup\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi_SI_Perpustakaan__PI_.UC_Pengembalian.resources
+D:\Kuliah TI\Bahasa Program\VB\Backup\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi_SI_Perpustakaan__PI_.UC_Petugas.resources
+D:\Kuliah TI\Bahasa Program\VB\Backup\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi SI Perpustakaan (PI).vbproj.GenerateResource.Cache
+D:\Kuliah TI\Bahasa Program\VB\Backup\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi SI Perpustakaan (PI).vbproj.CoreCompileInputs.cache
+D:\Kuliah TI\Bahasa Program\VB\Backup\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi SI Perpustakaan (PI).exe
+D:\Kuliah TI\Bahasa Program\VB\Backup\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi SI Perpustakaan (PI).xml
+D:\Kuliah TI\Bahasa Program\VB\Backup\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi SI Perpustakaan (PI).pdb
+D:\Kuliah TI\Bahasa Program\VB\Backup\Aplikasi SI Perpustakaan (PI)\Aplikasi SI Perpustakaan (PI)\obj\Debug\Aplikasi SI Perpustakaan (PI).vbprojResolveAssemblyReference.cache
